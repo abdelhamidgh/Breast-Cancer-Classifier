@@ -31,4 +31,4 @@ Balanced manually to 200 samples from each class.
 
 ##  Project Prototype Video
 
-##[Download or view the video](https://github.com/abdelhamidgh/Breast-Cancer-Classifier/blob/main/Project-web-interface.mp4)
+[Download or view the video](https://github.com/abdelhamidgh/Breast-Cancer-Classifier/blob/main/Project-web-interface.mp4)
