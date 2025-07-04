@@ -26,7 +26,9 @@ Balanced manually to 200 samples from each class.
 ##  Results
 
 - Accuracy: 96.25%
-- 
+  
 ---
+
+##  Project Prototype Video
 
 ##[Download or view the video](https://github.com/abdelhamidgh/Breast-Cancer-Classifier/blob/main/Project-web-interface.mp4)
